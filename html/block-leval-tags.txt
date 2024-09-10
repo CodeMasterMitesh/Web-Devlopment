@@ -1,0 +1,30 @@
+Block-Level Tags
+Block-level elements start on a new line and take up the full width available.
+
+<address> – Represents contact information.
+<article> – Defines an article.
+<aside> – Defines content aside from the main content.
+<blockquote> – Defines a long quotation.
+<canvas> – Used to draw graphics via scripting (usually JavaScript).
+<dd> – Defines a description or value in a description list.
+<div> – Generic block container for content.
+<dl> – Defines a description list.
+<dt> – Defines a term in a description list.
+<fieldset> – Groups related elements in a form.
+<figcaption> – Defines a caption for a <figure> element.
+<figure> – Groups media content and its caption.
+<footer> – Defines a footer for a document or section.
+<form> – Defines an HTML form for user input.
+<h1> to <h6> – Define HTML headings from level 1 (largest) to level 6 (smallest).
+<header> – Defines a header for a document or section.
+<hr> – Inserts a thematic break (horizontal line).
+<li> – Defines a list item.
+<main> – Represents the main content of a document.
+<nav> – Defines navigation links.
+<noscript> – Defines an alternate content for users without JavaScript.
+<ol> – Defines an ordered list.
+<p> – Defines a paragraph.
+<pre> – Defines preformatted text.
+<section> – Defines a section in a document.
+<table> – Defines a table.
+<ul> – Defines an unordered list.

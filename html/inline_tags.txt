@@ -1,0 +1,32 @@
+Inline Tags
+Inline elements do not start on a new line. They only take up as much width as needed.
+
+<a> – Defines a hyperlink.
+<abbr> – Represents an abbreviation.
+<b> – Makes text bold.
+<bdo> – Overrides text direction.
+<br> – Inserts a line break.
+<button> – Represents a clickable button.
+<cite> – Defines a citation.
+<code> – Represents computer code.
+<dfn> – Defines a term.
+<em> – Emphasizes text (italicized).
+<i> – Represents a range of text in an alternate voice or mood (italicized).
+<img> – Embeds an image.
+<input> – Represents an input field.
+<kbd> – Represents keyboard input.
+<label> – Defines a label for an input element.
+<mark> – Highlights text.
+<q> – Defines a short inline quotation.
+<samp> – Represents sample output from a computer program.
+<select> – Defines a drop-down list.
+<small> – Defines smaller text.
+<span> – Generic inline container for text.
+<strong> – Defines important text (bold).
+<sub> – Defines subscript text.
+<sup> – Defines superscript text.
+<textarea> – Represents a multi-line text input.
+<time> – Defines a specific time.
+<tt> – Defines teletype text (deprecated in HTML5).
+<u> – Underlines text.
+<var> – Defines a variable in programming or a mathematical expression.
