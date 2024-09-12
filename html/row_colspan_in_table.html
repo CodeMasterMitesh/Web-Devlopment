@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Row Span and Colspan In Html</title>
+</head>
+<body>
+        <!-- 4 row 
+        4 column -->
+        <!-- tr means table row  -->
+         <!-- td means table data  -->
+          <!-- th means table heading  -->
+          <!-- rowspan means merge two and more rows  -->
+          <!-- colspan  means morethan two column mearge  -->
+           <h1>A tEst Table with merge cells</h1>
+        <table border="1">
+            <tr>
+                <th rowspan="2">Blank</th>
+                <th colspan="2">Average</th>
+                <th rowspan="2">Red Eyes</th>
+            </tr>
+            <tr>
+                <th>height</th>
+                <th>Weight</th>
+            </tr>
+            <tr>
+                <th>Males</th>
+                <td>1.9</td>
+                <td>0.003</td>
+                <td>40%</td>
+            </tr>
+            <tr>
+                <th>Females</th>
+                <td>1.7</td>
+                <td>0.002</td>
+                <td>43%</td>
+            </tr>
+        </table>
+
+        <hr>
+
+        <h1>Nested Table</h1>
+
+        <table border="1">
+            <tr>
+                <td>Table 1</td>
+                <td>
+                    Table 1
+                    <table border="1">
+                        <tr>
+                            <td>Table 2 Column 1</td>
+                            <td>Table 2 Column 2</td>
+                        </tr>
+                        <tr>
+                            <td>Table 2 Column 3</td>
+                            <td>Table 2 Column 4</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td>Table 1 Row 2 Column 1</td>
+                <td>Table 1 Row 2 Column 2</td>
+            </tr>
+        </table>
+
+</body>
+</html>
